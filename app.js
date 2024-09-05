@@ -7,11 +7,4 @@ app.get('/',(req,res)=>{
 res.send("<h1>Sever is running</h1>");
 })
 
-
-
-
-
-
-
-
 module.exports =app
